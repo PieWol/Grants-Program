@@ -11,5 +11,5 @@ jobs:
       with:
         # REQUIRED_LABELS_ANY: "bug,enhancement,skip-changelog"
         # REQUIRED_LABELS_ANY_DESCRIPTION: "Select at least one label ['bug','enhancement','skip-changelog']"
-        BANNED_LABELS: "ready for review"
-        BANNED_LABELS_DESCRIPTION: "Remove `ready for review` label for merge"
+        BANNED_LABELS: "admin-review"
+        BANNED_LABELS_DESCRIPTION: "Remove `admin-review` label for merge"
