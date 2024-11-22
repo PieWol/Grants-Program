@@ -16,6 +16,7 @@ Besides, **there is a clear difference between an application being accepted and
 <a id="top"></a>
 
 - [2024](#2024)
+  - [🏄 Wave 24 - Q4 2024](#-wave-24---q4-2024)
   - [🏄 Wave 23 - Q3 2024](#-wave-23---q3-2024)
   - [🏄 Wave 22 - Q2 2024](#-wave-22---q2-2024)
   - [🏄 Wave 21 - Q1 2024](#-wave-21---q1-2024)
@@ -48,17 +49,29 @@ Besides, **there is a clear difference between an application being accepted and
 
 ## 2024
 
+### 🏄 Wave 24 - Q4 2024
+
+| Team                                                               | Project                                                                                                | Link                                       | Terminated | First Delivery | Completed  |
+| :------------------------------------------------------------------| :------------------------------------------------------------------------------------------------------| :------------------------------------------| :---------: | :------------: | :--------: |
+| [hack-ink](https://linktr.ee/aurevoirxavier)                       | [Polkadot Runtime Releaser](./polkadot-runtime-releaser.md)                     | [GitHub](https://github.com/AurevoirXavier)                 | ☐          |        ☐       |      ☐      |
+| [Coong Crafts](https://github.com/CoongCrafts)                       | [typink](./typink.md)                     | [GitHub](https://github.com/CoongCrafts)                 | ☐          |        ☐       |      ☐      |
+| [Tuguldur Baigalmaa](https://philoniare.com/about)                       | [Bison](./bison.md)                     | [GitHub](https://github.com/philoniare)                 | ☐          |        ☐       |      ☐      |
+| [Cyborg Network](https://cyborgnetwork.io/)                       | [NeuroZK](./NeuroZK.md)                     | [GitHub](https://github.com/Cyborg-Network)               | ☐          |        ☐       |      ☐      |
+
+[🔝](#top)
+
 ### 🏄 Wave 23 - Q3 2024
 
 | Team                                                               | Project                                                                                                | Link                                       | Terminated | First Delivery | Completed  |
 | :------------------------------------------------------------------| :------------------------------------------------------------------------------------------------------| :------------------------------------------| :---------: | :------------: | :--------: |
 | [gmajor](https://github.com/gmajor-encrypt)                       | [subxt-python](./subxt-python.md)                     | [GitHub](https://github.com/gmajor-encrypt/xcm-tools)                 | ☐          |        ☒       |      ☐      |
 | [Liu-Cheng Xu](https://github.com/liuchengxu)                       | [Subcoin](./Subcoin.md)                     | [GitHub](https://github.com/subcoin-project/subcoin)                 | ☐          |        ☒       |      ☐      |
-| [Experio S M](https://www.linkedin.com/in/leogcustodio/)                       | [Polkadart Follow-up](./polkadart_extension.md)                     | [GitHub](https://github.com/leonardocustodio/polkadart)                 | ☐          |        ☐       |      ☐      |
+| [Experio S M](https://www.linkedin.com/in/leogcustodio/)                       | [Polkadart Follow-up](./polkadart_extension.md)                     | [GitHub](https://github.com/leonardocustodio/polkadart)                 | ☐          |        ☒       |      ☐      |
 | [Solidbit GmbH](https://solid-bit.com/)                       | [ISO20022 Ecosystem Research and Technical Design](./ISO20022-Implementation-POC.md)                     | [GitHub](https://github.com/SolidbitGmbH)                 | ☐          |        ☒       |      ☒      |
 | [Katarína Valová](https://github.com/kacena123)                       | [AgriDot](./AgriDot.md)                     | [GitHub](https://github.com/kacena123)                 | ☐          |        ☐       |      ☐      |
+| [ParaSpell Research Foundation](https://paraspell.xyz/)                       | [xcNFT](./xcNFT.md)                     | [GitHub](https://github.com/paraspell)                 | ☐          |        ☒       |      ☒      |
 | [Web3 Association](https://github.com/web3association)                       | [Open source contributor funding experiment](./web3-association-open-source-contributor-funding-experiment-setup.md)                     | [GitHub](https://github.com/web3association)                 | ☐          |        ☐       |      ☐      |
-| [SIGMA 8 SOLUTIONS](https://github.com/lukastanisic99)                       | [P2P State Channels](./P2PStateChannels.md)                     | [GitHub](https://github.com/lukastanisic99)                 | ☐          |        ☐       |      ☐      |
+| [SIGMA 8 SOLUTIONS](https://github.com/lukastanisic99)                       | [P2P State Channels](./P2PStateChannels.md)                     | [GitHub](https://github.com/lukastanisic99)                 | ☐          |        ☒       |      ☐      |
 
 [🔝](#top)
 
@@ -80,7 +93,7 @@ Besides, **there is a clear difference between an application being accepted and
 
 | Team                                                               | Project                                                                                                | Link                                       | Terminated | First Delivery | Completed  |
 | :------------------------------------------------------------------| :------------------------------------------------------------------------------------------------------| :------------------------------------------| :---------: | :------------: | :--------: |
-| [MLabs](https://mlabs.city/)                       | [TuxedoDapp](./TuxedoDapp.md)                     | [GitHub](https://github.com/mlabs-haskell)                 | ☐          |        ☐       |      ☐      |
+| [MLabs](https://mlabs.city/)                       | [TuxedoDapp](./TuxedoDapp.md)                     | [GitHub](https://github.com/mlabs-haskell)                 | ☐          |        ☒       |      ☒      |
 | [Lastic](https://www.lastic.xyz/)                       | [Coretime Indexer + Visualizations](./lastic-grant3.md)                     | [GitHub](https://github.com/LasticXYZ)                 | ☐          |        ☒       |      ☒      |
 | [IgorStojanov](https://igorstojanov.com/)                       | [Material Design Makeover for Substrate Front-End Template](./lsi-front-end-template.md)                     | [GitHub](https://github.com/stojanov-igor)                 | ☐          |        ☒       |      ☒      |
 | DOT Login                       | [DOT Login](./dot-login.md)                     | [GitHub](https://github.com/singkeo)                 | ☐          |        ☒       |      ☒      |
@@ -134,7 +147,7 @@ Besides, **there is a clear difference between an application being accepted and
 | [Protofire](https://protofire.io/)                       | [Contract Wizard](./Contract_wizard.md)                     | [GitHub](https://github.com/protofire/polkadot-contract-wizard/)                 | ☐          |        ☒       |      ☒      |
 | [ZeroDAO](https://github.com/ZeroDAO)                       | [Melodot](./Melodot.md)                     | [GitHub](https://github.com/ZeroDAO)                 | ☐          |        ☒       |      ☒      |
 | [Starks](https://github.com/tur461)                       | [XCM tool for NFTs](./xNFT.md)                     | [GitHub](https://github.com/tur461)                 | ☐          |        ☒       |      ☒      |
-| [ChainSafe](https://chainsafe.io/)                                 | [Polkadot Snap Maintenance](./maintenance/Substratesnap_Maintenance.md)   | [GitHub](https://github.com/ChainSafe/metamask-snap-polkadot)                               | ☐          |        ☒       |      ☐     |
+| [ChainSafe](https://chainsafe.io/)                                 | [Polkadot Snap Maintenance](./maintenance/Substratesnap_Maintenance.md)   | [GitHub](https://github.com/ChainSafe/metamask-snap-polkadot)                               | ☐          |        ☒       |      ☒     |
 | [justmert](https://github.com/justmert)                                 | [DOTLY: Revolutionizing Polkadot Account Statistics](./dotly.md)   | [GitHub](https://github.com/justmert/dotly)                               | ☐          |        ☒       |      ☒     |
 | [Federico Cicciarella](https://www.linkedin.com/in/federicocicciarella/?originalSubdomain=it)                                 | [Tracking Chain](./tracking_chain.md)   | [GitHub](https://github.com/TrackingChains/TrackingChain)                               | ☐          |        ☒       |      ☒     |
 | [TPScore](https://github.com/its-a-setup)                                 | [TPScore](./TPScore.md)   | [GitHub](https://github.com/its-a-setup)                               | ☐          |        ☒       |      ☒     |
@@ -485,7 +498,7 @@ Besides, **there is a clear difference between an application being accepted and
 | [Banksy Finance](http://www.banksy.finance/)    | [NFT Pool-Based Lending Hub](./Banksy_Finance.md)                                         | [GitHub](https://github.com/Banksy-Finance)         | ☐          |       ☐        |     ☐     |
 | [SubDAO Labs](https://www.subdao.network/)      | [PolkaSign - Web3.0 app for electronic agreements](./SubDAO-Chrome-Extension.md)          | [GitHub](https://github.com/subdao-network)         | ☐          |       ☒        |     ☒     |
 | [Valibre](https://valibre.org)                  | [People Local Interactions Protocol (PLIP)](./plip.md)                                    | [GitHub](https://github.com/valibre-org/)           | ☐          |       ☐        |     ☐     |
-| [Reaudito](https://shivarthu.reaudito.com/#/)   | [Shivarthu: A blockchain-based decentralized governance system](./Shivarthu.md)           | [GitHub](https://github.com/amiyatulu/shivarthu)    | ☐          |       ☒        |     ☐     |
+| [Reaudito](https://shivarthu.reaudito.com/#/)   | [Shivarthu: A blockchain-based decentralized governance system](./Shivarthu.md)           | [GitHub](https://github.com/amiyatulu/shivarthu)    | ☐          |       ☒        |     ☒     |
 | Uniscan                                         | [NFT Explorer](./nft_explorer.md)                                                         | [GitHub](https://github.com/wuminzhe)               | ☐          |       ☒        |     ☒     |
 | [LimeChain](https://limechain.tech)             | [Subsembly - Support for GRANDPA](./assemblyscript-scale-codec.md)                        | [GitHub](https://github.com/LimeChain)              | ☐          |       ☒        |     ☒     |
 | [OpenSquare](https://www.opensquare.network)    | [Off-chain voting platform](./OpenSquare_paid_qa_protocol.md)                             | [GitHub](https://github.com/opensquare-network/)    | ☐          |       ☒        |     ☒     |
